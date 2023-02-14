@@ -183,6 +183,8 @@ def id_system():
     
     elif system_id in (
         "AYANEO 2",
+        "AYANEO GEEK",
+        "GEEK"
         ):
         CAPTURE_CONTROLLER = True
         CAPTURE_KEYBOARD = True
